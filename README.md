@@ -5,11 +5,11 @@
 #### 💻 Full-stack Developer!
 #### 🏡 I'm from Brazil.
 #### 📚 Graduate in Electrical Engineering, postgraduate in software engineering
-#### 📤 2023 Goals - 01: Improve my knowledge in PHP and TypeScript; 
-#### 📤 2023 Goals - 02: Improve my knowledge in Python; 
-#### 📤 2023 Goals - 03: Study Golang; 
-#### 📤 2023 Goals - 04: Create at least 10 complete projects this year; 
-#### 📤 2023 Goals - 05: Become fluent in English!
+#### 📤 2024 Goals - 01: Improve my knowledge in PHP and TypeScript; 
+#### 📤 2024 Goals - 02: Improve my knowledge in Python; 
+#### 📤 2024 Goals - 03: Study Golang; 
+#### 📤 2024 Goals - 04: Create at least 10 complete projects this year; 
+#### 📤 2024 Goals - 05: Become fluent in English!
 
 <!-- Linguagens e Ferramentas -->
 
