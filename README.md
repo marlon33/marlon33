@@ -27,10 +27,12 @@
 [![VS Code Badge](https://img.shields.io/badge/VS_Code-6633cc?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
 
 ### 📊 Stats:
-<div>
-  <img height="180em" src="https://github-readme-stats-erktk6wej-marlon33.vercel.app/api?username=marlon33&show_icons=true&theme=synthwave")/>
-  <img height="180em" src="https://github-readme-stats-erktk6wej-marlon33.vercel.app/api/top-langs/?username=marlon33&layout=compact&theme=synthwave")/>
-</div>
+
+  
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=Marlon33&show_icons=true&hide_border=true&hide=contribs&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marlon33&langs_count=6&hide_border=true&layout=compact&hide=c%2B%2B,cmake,c,swift,kotlin,objective-c)
+
+
 
 <!-- Contato -->
 ### 🤝 Contact me:
