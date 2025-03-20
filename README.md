@@ -1,15 +1,15 @@
 <img align="right" src="https://user-images.githubusercontent.com/57325727/160325799-fde117e0-e47f-4158-a05c-4a6046c14681.svg" width="350"/>
 
 <!-- Welcome -->
-### Hello World, I'm Marlon!
-#### 💻 Full-stack Developer!
-#### 🏡 I'm from Brazil.
-#### 📚 Graduate in Electrical Engineering, postgraduate in software engineering
-#### 📤 2024 Goals - 01: Improve my knowledge in PHP and TypeScript; 
-#### 📤 2024 Goals - 02: Improve my knowledge in Python; 
-#### 📤 2024 Goals - 03: Study Golang; 
-#### 📤 2024 Goals - 04: Create at least 10 complete projects this year; 
-#### 📤 2024 Goals - 05: Become fluent in English!
+## 👋 Hello! I'm Marlon!  
+
+### 🚀 About Me
+💼 Backend Developer  
+📍 Based in Brazil  
+🎯 Focused on improving my skills in PHP, TypeScript, and Python  
+📚 Always learning about Golang and aiming to create at least 10 complete projects this year  
+🌍 2025 Goal: Become fluent in German! 
+
 
 <!-- Linguagens e Ferramentas -->
 
@@ -32,24 +32,10 @@
 ![Profile Stats](https://github-readme-stats.vercel.app/api?username=Marlon33&show_icons=true&hide_border=true&hide=contribs&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marlon33&langs_count=6&hide_border=true&layout=compact&hide=c%2B%2B,cmake,c,swift,kotlin,objective-c)
 
-
-
 <!-- Contato -->
 ### 🤝 Contact me:
 [![Gmail Badge](https://img.shields.io/badge/Gmail-6633cc?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eu.marlonbraga@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-6633cc?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bragamarlon/)
 
-<!--
-**ThallesLana/ThallesLana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+💡 *"Success is the sum of small efforts repeated day in and day out."*
